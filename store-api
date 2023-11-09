@@ -1,0 +1,450 @@
+[
+    {
+        "id": 1,
+        "title": "Smartphone X",
+        "price": 20000,
+        "description": "High-quality smartphone with advanced features.",
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/featured/?smartphone,technology",
+            "https://source.unsplash.com/featured/?phone,gadget",
+            "https://source.unsplash.com/featured/?mobile,device"
+        ],
+        "rating": {
+            "rate": 4.7,
+            "count": 15
+        },
+        "reviews": [
+            {
+                "user": "User1",
+                "comment": "Amazing performance!",
+                "date": "2023-11-09"
+            },
+            {
+                "user": "User2",
+                "comment": "Sleek design.",
+                "date": "2023-11-08"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Fashionable T-Shirt",
+        "price": 30,
+        "description": "Trendy t-shirt from a fashionable clothing brand.",
+        "category": "Clothing",
+        "images": [
+            "https://source.unsplash.com/featured/?tshirt,fashion",
+            "https://source.unsplash.com/featured/?clothing,style",
+            "https://source.unsplash.com/featured/?apparel,fashion"
+        ],
+        "rating": {
+            "rate": 4.5,
+            "count": 12
+        },
+        "reviews": [
+            {
+                "user": "User3",
+                "comment": "Comfortable fit!",
+                "date": "2023-11-07"
+            },
+            {
+                "user": "User4",
+                "comment": "Vibrant colors.",
+                "date": "2023-11-06"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cookware Set",
+        "price": 500,
+        "description": "High-quality cookware set for your kitchen.",
+        "category": "Home & Kitchen",
+        "images": [
+            "https://source.unsplash.com/featured/?cookware,kitchen",
+            "https://source.unsplash.com/featured/?kitchenware,pots",
+            "https://source.unsplash.com/featured/?utensils,cooking"
+        ],
+        "rating": {
+            "rate": 4.2,
+            "count": 10
+        },
+        "reviews": [
+            {
+                "user": "User5",
+                "comment": "Excellent durability!",
+                "date": "2023-11-05"
+            },
+            {
+                "user": "User6",
+                "comment": "Great for cooking enthusiasts.",
+                "date": "2023-11-04"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Wireless Headphones",
+        "price": 100,
+        "description": "Immersive wireless headphones for music lovers.",
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/featured/?headphones,music",
+            "https://source.unsplash.com/featured/?audio,technology",
+            "https://source.unsplash.com/featured/?wireless,gadget"
+        ],
+        "rating": {
+            "rate": 4.8,
+            "count": 18
+        },
+        "reviews": [
+            {
+                "user": "User7",
+                "comment": "Clear sound quality!",
+                "date": "2023-11-03"
+            },
+            {
+                "user": "User8",
+                "comment": "Comfortable for long use.",
+                "date": "2023-11-02"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Lipstick Set",
+        "price": 50,
+        "description": "Luxury lipstick set with vibrant colors.",
+        "category": "Beauty",
+        "images": [
+            "https://source.unsplash.com/featured/?lipstick,makeup",
+            "https://source.unsplash.com/featured/?cosmetics,beauty",
+            "https://source.unsplash.com/featured/?lipgloss,colors"
+        ],
+        "rating": {
+            "rate": 4.5,
+            "count": 15
+        },
+        "reviews": [
+            {
+                "user": "User9",
+                "comment": "Long-lasting shades!",
+                "date": "2023-11-01"
+            },
+            {
+                "user": "User10",
+                "comment": "Beautiful packaging.",
+                "date": "2023-10-31"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Toy Building Blocks",
+        "price": 25,
+        "description": "Educational building blocks for kids.",
+        "category": "Toys",
+        "images": [
+            "https://source.unsplash.com/featured/?toys,blocks",
+            "https://source.unsplash.com/featured/?kids,educational",
+            "https://source.unsplash.com/featured/?play,fun"
+        ],
+        "rating": {
+            "rate": 4.0,
+            "count": 8
+        },
+        "reviews": [
+            {
+                "user": "User11",
+                "comment": "Great for creative play!",
+                "date": "2023-10-30"
+            },
+            {
+                "user": "User12",
+                "comment": "Durable and safe.",
+                "date": "2023-10-29"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Elegant Sofa",
+        "price": 800,
+        "description": "Designer sofa for a stylish living room.",
+        "category": "Furniture",
+        "images": [
+            "https://source.unsplash.com/featured/?sofa,livingroom",
+            "https://source.unsplash.com/featured/?furniture,design",
+            "https://source.unsplash.com/featured/?home,interior"
+        ],
+        "rating": {
+            "rate": 4.6,
+            "count": 20
+        },
+        "reviews": [
+            {
+                "user": "User13",
+                "comment": "Comfortable and elegant!",
+                "date": "2023-10-28"
+            },
+            {
+                "user": "User14",
+                "comment": "High-quality craftsmanship.",
+                "date": "2023-10-27"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Camping Tent",
+        "price": 150,
+        "description": "Durable camping tent for outdoor adventures.",
+        "category": "Sports & Outdoors",
+        "images": [
+            "https://source.unsplash.com/featured/?camping,tent",
+            "https://source.unsplash.com/featured/?outdoors,adventure",
+            "https://source.unsplash.com/featured/?nature,campsite"
+        ],
+        "rating": {
+            "rate": 4.3,
+            "count": 14
+        },
+        "reviews": [
+            {
+                "user": "User15",
+                "comment": "Easy to set up!",
+                "date": "2023-10-26"
+            },
+            {
+                "user": "User16",
+                "comment": "Perfect for camping trips.",
+                "date": "2023-10-25"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Diamond Necklace",
+        "price": 1000,
+        "description": "Exquisite diamond necklace for special occasions.",
+        "category": "Jewelry",
+        "images": [
+            "https://source.unsplash.com/featured/?necklace,jewelry",
+            "https://source.unsplash.com/featured/?diamond,accessory",
+            "https://source.unsplash.com/featured/?luxury,fashion"
+        ],
+        "rating": {
+            "rate": 4.9,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "User17",
+                "comment": "Absolutely stunning!",
+                "date": "2023-10-24"
+            },
+            {
+                "user": "User18",
+                "comment": "A timeless piece.",
+                "date": "2023-10-23"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Bestseller Novel",
+        "price": 20,
+        "description": "Popular novel for book enthusiasts.",
+        "category": "Books",
+        "images": [
+            "https://source.unsplash.com/featured/?book,novel",
+            "https://source.unsplash.com/featured/?reading,literature",
+            "https://source.unsplash.com/featured/?bestseller,story"
+        ],
+        "rating": {
+            "rate": 4.4,
+            "count": 16
+        },
+        "reviews": [
+            {
+                "user": "User19",
+                "comment": "Engaging storyline!",
+                "date": "2023-10-22"
+            },
+            {
+                "user": "User20",
+                "comment": "A must-read!",
+                "date": "2023-10-21"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Smartwatch",
+        "price": 300,
+        "description": "Cutting-edge smartwatch with advanced features.",
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/featured/?smartwatch,technology",
+            "https://source.unsplash.com/featured/?watch,gadget",
+            "https://source.unsplash.com/featured/?wearable,device"
+        ],
+        "rating": {
+            "rate": 4.6,
+            "count": 22
+        },
+        "reviews": [
+            {
+                "user": "User21",
+                "comment": "Sleek design and functionality!",
+                "date": "2023-10-20"
+            },
+            {
+                "user": "User22",
+                "comment": "Great value for money.",
+                "date": "2023-10-19"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Slim Fit Jeans",
+        "price": 50,
+        "description": "Fashionable slim fit jeans for a stylish look.",
+        "category": "Clothing",
+        "images": [
+            "https://source.unsplash.com/featured/?jeans,fashion",
+            "https://source.unsplash.com/featured/?clothing,style",
+            "https://source.unsplash.com/featured/?apparel,fashion"
+        ],
+        "rating": {
+            "rate": 4.2,
+            "count": 14
+        },
+        "reviews": [
+            {
+                "user": "User23",
+                "comment": "Perfect fit!",
+                "date": "2023-10-18"
+            },
+            {
+                "user": "User24",
+                "comment": "Comfortable for daily wear.",
+                "date": "2023-10-17"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Blender",
+        "price": 70,
+        "description": "High-performance blender for your kitchen.",
+        "category": "Home & Kitchen",
+        "images": [
+            "https://source.unsplash.com/featured/?blender,kitchen",
+            "https://source.unsplash.com/featured/?appliance,cooking",
+            "https://source.unsplash.com/featured/?smoothie,healthy"
+        ],
+        "rating": {
+            "rate": 4.1,
+            "count": 12
+        },
+        "reviews": [
+            {
+                "user": "User25",
+                "comment": "Efficient and easy to use!",
+                "date": "2023-10-16"
+            },
+            {
+                "user": "User26",
+                "comment": "Great for making smoothies.",
+                "date": "2023-10-15"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Smart Speaker",
+        "price": 80,
+        "description": "Smart speaker for a seamless audio experience.",
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/featured/?speaker,music",
+            "https://source.unsplash.com/featured/?audio,gadget",
+            "https://source.unsplash.com/featured/?smart,technology"
+        ],
+        "rating": {
+            "rate": 4.7,
+            "count": 18
+        },
+        "reviews": [
+            {
+                "user": "User27",
+                "comment": "Crystal clear sound!",
+                "date": "2023-10-14"
+            },
+            {
+                "user": "User28",
+                "comment": "Intuitive controls.",
+                "date": "2023-10-13"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Makeup Kit",
+        "price": 40,
+        "description": "Complete makeup kit for a flawless look.",
+        "category": "Beauty",
+        "images": [
+            "https://source.unsplash.com/featured/?makeup,cosmetics",
+            "https://source.unsplash.com/featured/?beauty,products",
+            "https://source.unsplash.com/featured/?lipstick,eyeshadow"
+        ],
+        "rating": {
+            "rate": 4.5,
+            "count": 16
+        },
+        "reviews": [
+            {
+                "user": "User29",
+                "comment": "High-quality products!",
+                "date": "2023-10-12"
+            },
+            {
+                "user": "User30",
+                "comment": "Long-lasting and vibrant colors.",
+                "date": "2023-10-11"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Educational Puzzle Set",
+        "price": 15,
+        "description": "Educational puzzle set for learning and fun.",
+        "category": "Toys",
+        "images": [
+            "https://source.unsplash.com/featured/?toys,puzzle",
+            "https://source.unsplash.com/featured/?kids,learning",
+            "https://source.unsplash.com/featured/?play,educational"
+        ],
+        "rating": {
+            "rate": 4.0,
+            "count": 8
+        },
+        "reviews": [
+            {
+                "user": "User31",
+                "comment": "Great for cognitive development!",
+                "date": "2023-10-10"
+            },
+            {
+                "user": "User32",
+                "comment": "Engaging and challenging puzzles.",
+                "date": "2023-10-09"
+            }
+        ]
+    }
+]
