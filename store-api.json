@@ -1,4 +1,6 @@
-[
+{
+"baseUrl": "https://himanshusharmadotcom.github.io/use-api/store-api.json",
+  "products":[
     {
         "id": 1,
         "title": "Smartphone X",
@@ -448,3 +450,4 @@
         ]
     }
 ]
+}
