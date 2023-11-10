@@ -2,6 +2,7 @@
     {
         "id": 1,
         "title": "Smartphone X",
+        "stock": 5,
         "price": 20000,
         "description": "High-quality smartphone with advanced features.",
         "category": "Electronics",
@@ -37,6 +38,7 @@
     {
         "id": 2,
         "title": "Fashionable T-Shirt",
+        "stock": 5,
         "price": 30,
         "description": "Trendy t-shirt from a fashionable clothing brand.",
         "category": "Clothing",
@@ -72,6 +74,7 @@
     {
         "id": 3,
         "title": "Cookware Set",
+        "stock": 5,
         "price": 500,
         "description": "High-quality cookware set for your kitchen.",
         "category": "Home & Kitchen",
@@ -107,6 +110,7 @@
     {
         "id": 4,
         "title": "Wireless Headphones",
+        "stock": 5,
         "price": 100,
         "description": "Immersive wireless headphones for music lovers.",
         "category": "Electronics",
@@ -142,6 +146,7 @@
     {
         "id": 5,
         "title": "Lipstick Set",
+        "stock": 5,
         "price": 50,
         "description": "Luxury lipstick set with vibrant colors.",
         "category": "Beauty",
@@ -177,6 +182,7 @@
     {
         "id": 6,
         "title": "Toy Building Blocks",
+        "stock": 5,
         "price": 25,
         "description": "Educational building blocks for kids.",
         "category": "Toys",
@@ -212,6 +218,7 @@
     {
         "id": 7,
         "title": "Elegant Sofa",
+        "stock": 5,
         "price": 800,
         "description": "Designer sofa for a stylish living room.",
         "category": "Furniture",
@@ -247,6 +254,7 @@
     {
         "id": 8,
         "title": "Camping Tent",
+        "stock": 5,
         "price": 150,
         "description": "Durable camping tent for outdoor adventures.",
         "category": "Sports & Outdoors",
@@ -282,6 +290,7 @@
     {
         "id": 9,
         "title": "Diamond Necklace",
+        "stock": 5,
         "price": 1000,
         "description": "Exquisite diamond necklace for special occasions.",
         "category": "Jewelry",
@@ -317,6 +326,7 @@
     {
         "id": 10,
         "title": "Bestseller Novel",
+        "stock": 5,
         "price": 20,
         "description": "Popular novel for book enthusiasts.",
         "category": "Books",
@@ -352,6 +362,7 @@
     {
         "id": 11,
         "title": "Smartwatch",
+        "stock": 5,
         "price": 300,
         "description": "Cutting-edge smartwatch with advanced features.",
         "category": "Electronics",
@@ -387,6 +398,7 @@
     {
         "id": 12,
         "title": "Slim Fit Jeans",
+        "stock": 5,
         "price": 50,
         "description": "Fashionable slim fit jeans for a stylish look.",
         "category": "Clothing",
