@@ -27,12 +27,12 @@
                 "date": "2023-11-08"
             }
         ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 2,
@@ -62,12 +62,12 @@
                 "date": "2023-11-06"
             }
         ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#3498db",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#e74c3c",
+            "#3498db",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 3,
@@ -97,12 +97,12 @@
                 "date": "2023-11-04"
             }
         ],
-        "colors": {
-            "primary": "#2ecc71",
-            "secondary": "#e74c3c",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#2ecc71",
+            "#e74c3c",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 4,
@@ -132,12 +132,12 @@
                 "date": "2023-11-02"
             }
         ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 5,
@@ -167,12 +167,12 @@
                 "date": "2023-10-31"
             }
         ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#2ecc71",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 6,
@@ -202,12 +202,12 @@
                 "date": "2023-10-29"
             }
         ],
-        "colors": {
-            "primary": "#2ecc71",
-            "secondary": "#e74c3c",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#2ecc71",
+            "#e74c3c",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 7,
@@ -237,12 +237,12 @@
                 "date": "2023-10-27"
             }
         ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 8,
@@ -272,12 +272,12 @@
                 "date": "2023-10-25"
             }
         ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#2ecc71",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 9,
@@ -307,12 +307,12 @@
                 "date": "2023-10-23"
             }
         ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 10,
@@ -342,12 +342,12 @@
                 "date": "2023-10-21"
             }
         ],
-        "colors": {
-            "primary": "#2ecc71",
-            "secondary": "#e74c3c",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#2ecc71",
+            "#e74c3c",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 11,
@@ -377,12 +377,12 @@
                 "date": "2023-10-19"
             }
         ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#2ecc71",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
     },
     {
         "id": 12,
@@ -412,151 +412,11 @@
                 "date": "2023-10-17"
             }
         ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
-    },
-    {
-        "id": 13,
-        "title": "Blender",
-        "price": 70,
-        "description": "High-performance blender for your kitchen.",
-        "category": "Home & Kitchen",
-        "images": [
-            "https://source.unsplash.com/400x400/?blender,kitchen",
-            "https://source.unsplash.com/400x400/?appliance,cooking",
-            "https://source.unsplash.com/400x400/?smoothie,healthy",
-            "https://source.unsplash.com/400x400/?mixer,modern"
-        ],
-        "rating": {
-            "rate": 4.1,
-            "count": 12
-        },
-        "reviews": [
-            {
-                "user": "User25",
-                "comment": "Efficient and easy to use!",
-                "date": "2023-10-16"
-            },
-            {
-                "user": "User26",
-                "comment": "Great for making smoothies.",
-                "date": "2023-10-15"
-            }
-        ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#2ecc71",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
-    },
-    {
-        "id": 14,
-        "title": "Smart Speaker",
-        "price": 80,
-        "description": "Smart speaker for a seamless audio experience.",
-        "category": "Electronics",
-        "images": [
-            "https://source.unsplash.com/400x400/?speaker,music",
-            "https://source.unsplash.com/400x400/?audio,gadget",
-            "https://source.unsplash.com/400x400/?smart,technology",
-            "https://source.unsplash.com/400x400/?sound,speaker"
-        ],
-        "rating": {
-            "rate": 4.7,
-            "count": 18
-        },
-        "reviews": [
-            {
-                "user": "User27",
-                "comment": "Crystal clear sound!",
-                "date": "2023-10-14"
-            },
-            {
-                "user": "User28",
-                "comment": "Intuitive controls.",
-                "date": "2023-10-13"
-            }
-        ],
-        "colors": {
-            "primary": "#3498db",
-            "secondary": "#e74c3c",
-            "accent": "#2ecc71",
-            "background": "#ecf0f1"
-        }
-    },
-    {
-        "id": 15,
-        "title": "Makeup Kit",
-        "price": 40,
-        "description": "Complete makeup kit for a flawless look.",
-        "category": "Beauty",
-        "images": [
-            "https://source.unsplash.com/400x400/?makeup,cosmetics",
-            "https://source.unsplash.com/400x400/?beauty,products",
-            "https://source.unsplash.com/400x400/?lipstick,eyeshadow",
-            "https://source.unsplash.com/400x400/?fashion,style"
-        ],
-        "rating": {
-            "rate": 4.5,
-            "count": 16
-        },
-        "reviews": [
-            {
-                "user": "User29",
-                "comment": "High-quality products!",
-                "date": "2023-10-12"
-            },
-            {
-                "user": "User30",
-                "comment": "Long-lasting and vibrant colors.",
-                "date": "2023-10-11"
-            }
-        ],
-        "colors": {
-            "primary": "#e74c3c",
-            "secondary": "#2ecc71",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
-    },
-    {
-        "id": 16,
-        "title": "Educational Puzzle Set",
-        "price": 15,
-        "description": "Educational puzzle set for learning and fun.",
-        "category": "Toys",
-        "images": [
-            "https://source.unsplash.com/400x400/?toys,puzzle",
-            "https://source.unsplash.com/400x400/?kids,learning",
-            "https://source.unsplash.com/400x400/?play,educational",
-            "https://source.unsplash.com/400x400/?puzzle,games"
-        ],
-        "rating": {
-            "rate": 4.0,
-            "count": 8
-        },
-        "reviews": [
-            {
-                "user": "User31",
-                "comment": "Great for cognitive development!",
-                "date": "2023-10-10"
-            },
-            {
-                "user": "User32",
-                "comment": "Engaging and challenging puzzles.",
-                "date": "2023-10-09"
-            }
-        ],
-        "colors": {
-            "primary": "#2ecc71",
-            "secondary": "#e74c3c",
-            "accent": "#3498db",
-            "background": "#ecf0f1"
-        }
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
     }
 ]
