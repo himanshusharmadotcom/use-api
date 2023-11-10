@@ -6,9 +6,10 @@
         "description": "High-quality smartphone with advanced features.",
         "category": "Electronics",
         "images": [
-            "https://source.unsplash.com/featured/?smartphone,technology",
-            "https://source.unsplash.com/featured/?phone,gadget",
-            "https://source.unsplash.com/featured/?mobile,device"
+            "https://source.unsplash.com/400x400/?smartphone,technology",
+            "https://source.unsplash.com/400x400/?phone,gadget",
+            "https://source.unsplash.com/400x400/?mobile,device",
+            "https://source.unsplash.com/400x400/?electronics,tech"
         ],
         "rating": {
             "rate": 4.7,
@@ -25,7 +26,13 @@
                 "comment": "Sleek design.",
                 "date": "2023-11-08"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 2,
@@ -34,9 +41,10 @@
         "description": "Trendy t-shirt from a fashionable clothing brand.",
         "category": "Clothing",
         "images": [
-            "https://source.unsplash.com/featured/?tshirt,fashion",
-            "https://source.unsplash.com/featured/?clothing,style",
-            "https://source.unsplash.com/featured/?apparel,fashion"
+            "https://source.unsplash.com/400x400/?tshirt,fashion",
+            "https://source.unsplash.com/400x400/?clothing,style",
+            "https://source.unsplash.com/400x400/?apparel,fashion",
+            "https://source.unsplash.com/400x400/?clothes,stylish"
         ],
         "rating": {
             "rate": 4.5,
@@ -53,7 +61,13 @@
                 "comment": "Vibrant colors.",
                 "date": "2023-11-06"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#3498db",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 3,
@@ -62,9 +76,10 @@
         "description": "High-quality cookware set for your kitchen.",
         "category": "Home & Kitchen",
         "images": [
-            "https://source.unsplash.com/featured/?cookware,kitchen",
-            "https://source.unsplash.com/featured/?kitchenware,pots",
-            "https://source.unsplash.com/featured/?utensils,cooking"
+            "https://source.unsplash.com/400x400/?cookware,kitchen",
+            "https://source.unsplash.com/400x400/?kitchenware,pots",
+            "https://source.unsplash.com/400x400/?utensils,cooking",
+            "https://source.unsplash.com/400x400/?kitchen,tools"
         ],
         "rating": {
             "rate": 4.2,
@@ -81,7 +96,13 @@
                 "comment": "Great for cooking enthusiasts.",
                 "date": "2023-11-04"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#2ecc71",
+            "secondary": "#e74c3c",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 4,
@@ -90,9 +111,10 @@
         "description": "Immersive wireless headphones for music lovers.",
         "category": "Electronics",
         "images": [
-            "https://source.unsplash.com/featured/?headphones,music",
-            "https://source.unsplash.com/featured/?audio,technology",
-            "https://source.unsplash.com/featured/?wireless,gadget"
+            "https://source.unsplash.com/400x400/?headphones,music",
+            "https://source.unsplash.com/400x400/?audio,technology",
+            "https://source.unsplash.com/400x400/?wireless,gadget",
+            "https://source.unsplash.com/400x400/?electronics,devices"
         ],
         "rating": {
             "rate": 4.8,
@@ -109,7 +131,13 @@
                 "comment": "Comfortable for long use.",
                 "date": "2023-11-02"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 5,
@@ -118,9 +146,10 @@
         "description": "Luxury lipstick set with vibrant colors.",
         "category": "Beauty",
         "images": [
-            "https://source.unsplash.com/featured/?lipstick,makeup",
-            "https://source.unsplash.com/featured/?cosmetics,beauty",
-            "https://source.unsplash.com/featured/?lipgloss,colors"
+            "https://source.unsplash.com/400x400/?lipstick,makeup",
+            "https://source.unsplash.com/400x400/?cosmetics,beauty",
+            "https://source.unsplash.com/400x400/?lipgloss,colors",
+            "https://source.unsplash.com/400x400/?makeup,products"
         ],
         "rating": {
             "rate": 4.5,
@@ -137,7 +166,13 @@
                 "comment": "Beautiful packaging.",
                 "date": "2023-10-31"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#2ecc71",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 6,
@@ -146,9 +181,10 @@
         "description": "Educational building blocks for kids.",
         "category": "Toys",
         "images": [
-            "https://source.unsplash.com/featured/?toys,blocks",
-            "https://source.unsplash.com/featured/?kids,educational",
-            "https://source.unsplash.com/featured/?play,fun"
+            "https://source.unsplash.com/400x400/?toys,blocks",
+            "https://source.unsplash.com/400x400/?kids,educational",
+            "https://source.unsplash.com/400x400/?play,fun",
+            "https://source.unsplash.com/400x400/?children,games"
         ],
         "rating": {
             "rate": 4.0,
@@ -165,7 +201,13 @@
                 "comment": "Durable and safe.",
                 "date": "2023-10-29"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#2ecc71",
+            "secondary": "#e74c3c",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 7,
@@ -174,9 +216,10 @@
         "description": "Designer sofa for a stylish living room.",
         "category": "Furniture",
         "images": [
-            "https://source.unsplash.com/featured/?sofa,livingroom",
-            "https://source.unsplash.com/featured/?furniture,design",
-            "https://source.unsplash.com/featured/?home,interior"
+            "https://source.unsplash.com/400x400/?sofa,livingroom",
+            "https://source.unsplash.com/400x400/?furniture,design",
+            "https://source.unsplash.com/400x400/?home,interior",
+            "https://source.unsplash.com/400x400/?luxury,lifestyle"
         ],
         "rating": {
             "rate": 4.6,
@@ -193,7 +236,13 @@
                 "comment": "High-quality craftsmanship.",
                 "date": "2023-10-27"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 8,
@@ -202,9 +251,10 @@
         "description": "Durable camping tent for outdoor adventures.",
         "category": "Sports & Outdoors",
         "images": [
-            "https://source.unsplash.com/featured/?camping,tent",
-            "https://source.unsplash.com/featured/?outdoors,adventure",
-            "https://source.unsplash.com/featured/?nature,campsite"
+            "https://source.unsplash.com/400x400/?camping,tent",
+            "https://source.unsplash.com/400x400/?outdoors,adventure",
+            "https://source.unsplash.com/400x400/?nature,campsite",
+            "https://source.unsplash.com/400x400/?travel,explore"
         ],
         "rating": {
             "rate": 4.3,
@@ -221,7 +271,13 @@
                 "comment": "Perfect for camping trips.",
                 "date": "2023-10-25"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#2ecc71",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 9,
@@ -230,9 +286,10 @@
         "description": "Exquisite diamond necklace for special occasions.",
         "category": "Jewelry",
         "images": [
-            "https://source.unsplash.com/featured/?necklace,jewelry",
-            "https://source.unsplash.com/featured/?diamond,accessory",
-            "https://source.unsplash.com/featured/?luxury,fashion"
+            "https://source.unsplash.com/400x400/?necklace,jewelry",
+            "https://source.unsplash.com/400x400/?diamond,accessory",
+            "https://source.unsplash.com/400x400/?luxury,fashion",
+            "https://source.unsplash.com/400x400/?sparkle,gemstone"
         ],
         "rating": {
             "rate": 4.9,
@@ -249,7 +306,13 @@
                 "comment": "A timeless piece.",
                 "date": "2023-10-23"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 10,
@@ -258,9 +321,10 @@
         "description": "Popular novel for book enthusiasts.",
         "category": "Books",
         "images": [
-            "https://source.unsplash.com/featured/?book,novel",
-            "https://source.unsplash.com/featured/?reading,literature",
-            "https://source.unsplash.com/featured/?bestseller,story"
+            "https://source.unsplash.com/400x400/?book,novel",
+            "https://source.unsplash.com/400x400/?reading,literature",
+            "https://source.unsplash.com/400x400/?bestseller,story",
+            "https://source.unsplash.com/400x400/?library,bookstore"
         ],
         "rating": {
             "rate": 4.4,
@@ -277,7 +341,13 @@
                 "comment": "A must-read!",
                 "date": "2023-10-21"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#2ecc71",
+            "secondary": "#e74c3c",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 11,
@@ -286,9 +356,10 @@
         "description": "Cutting-edge smartwatch with advanced features.",
         "category": "Electronics",
         "images": [
-            "https://source.unsplash.com/featured/?smartwatch,technology",
-            "https://source.unsplash.com/featured/?watch,gadget",
-            "https://source.unsplash.com/featured/?wearable,device"
+            "https://source.unsplash.com/400x400/?smartwatch,technology",
+            "https://source.unsplash.com/400x400/?watch,gadget",
+            "https://source.unsplash.com/400x400/?wearable,device",
+            "https://source.unsplash.com/400x400/?wristwatch,tech"
         ],
         "rating": {
             "rate": 4.6,
@@ -305,7 +376,13 @@
                 "comment": "Great value for money.",
                 "date": "2023-10-19"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#2ecc71",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 12,
@@ -314,9 +391,10 @@
         "description": "Fashionable slim fit jeans for a stylish look.",
         "category": "Clothing",
         "images": [
-            "https://source.unsplash.com/featured/?jeans,fashion",
-            "https://source.unsplash.com/featured/?clothing,style",
-            "https://source.unsplash.com/featured/?apparel,fashion"
+            "https://source.unsplash.com/400x400/?jeans,fashion",
+            "https://source.unsplash.com/400x400/?clothing,style",
+            "https://source.unsplash.com/400x400/?apparel,fashion",
+            "https://source.unsplash.com/400x400/?denim,blue"
         ],
         "rating": {
             "rate": 4.2,
@@ -333,7 +411,13 @@
                 "comment": "Comfortable for daily wear.",
                 "date": "2023-10-17"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 13,
@@ -342,9 +426,10 @@
         "description": "High-performance blender for your kitchen.",
         "category": "Home & Kitchen",
         "images": [
-            "https://source.unsplash.com/featured/?blender,kitchen",
-            "https://source.unsplash.com/featured/?appliance,cooking",
-            "https://source.unsplash.com/featured/?smoothie,healthy"
+            "https://source.unsplash.com/400x400/?blender,kitchen",
+            "https://source.unsplash.com/400x400/?appliance,cooking",
+            "https://source.unsplash.com/400x400/?smoothie,healthy",
+            "https://source.unsplash.com/400x400/?mixer,modern"
         ],
         "rating": {
             "rate": 4.1,
@@ -361,7 +446,13 @@
                 "comment": "Great for making smoothies.",
                 "date": "2023-10-15"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#2ecc71",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 14,
@@ -370,9 +461,10 @@
         "description": "Smart speaker for a seamless audio experience.",
         "category": "Electronics",
         "images": [
-            "https://source.unsplash.com/featured/?speaker,music",
-            "https://source.unsplash.com/featured/?audio,gadget",
-            "https://source.unsplash.com/featured/?smart,technology"
+            "https://source.unsplash.com/400x400/?speaker,music",
+            "https://source.unsplash.com/400x400/?audio,gadget",
+            "https://source.unsplash.com/400x400/?smart,technology",
+            "https://source.unsplash.com/400x400/?sound,speaker"
         ],
         "rating": {
             "rate": 4.7,
@@ -389,7 +481,13 @@
                 "comment": "Intuitive controls.",
                 "date": "2023-10-13"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#3498db",
+            "secondary": "#e74c3c",
+            "accent": "#2ecc71",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 15,
@@ -398,9 +496,10 @@
         "description": "Complete makeup kit for a flawless look.",
         "category": "Beauty",
         "images": [
-            "https://source.unsplash.com/featured/?makeup,cosmetics",
-            "https://source.unsplash.com/featured/?beauty,products",
-            "https://source.unsplash.com/featured/?lipstick,eyeshadow"
+            "https://source.unsplash.com/400x400/?makeup,cosmetics",
+            "https://source.unsplash.com/400x400/?beauty,products",
+            "https://source.unsplash.com/400x400/?lipstick,eyeshadow",
+            "https://source.unsplash.com/400x400/?fashion,style"
         ],
         "rating": {
             "rate": 4.5,
@@ -417,7 +516,13 @@
                 "comment": "Long-lasting and vibrant colors.",
                 "date": "2023-10-11"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#e74c3c",
+            "secondary": "#2ecc71",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     },
     {
         "id": 16,
@@ -426,9 +531,10 @@
         "description": "Educational puzzle set for learning and fun.",
         "category": "Toys",
         "images": [
-            "https://source.unsplash.com/featured/?toys,puzzle",
-            "https://source.unsplash.com/featured/?kids,learning",
-            "https://source.unsplash.com/featured/?play,educational"
+            "https://source.unsplash.com/400x400/?toys,puzzle",
+            "https://source.unsplash.com/400x400/?kids,learning",
+            "https://source.unsplash.com/400x400/?play,educational",
+            "https://source.unsplash.com/400x400/?puzzle,games"
         ],
         "rating": {
             "rate": 4.0,
@@ -445,6 +551,12 @@
                 "comment": "Engaging and challenging puzzles.",
                 "date": "2023-10-09"
             }
-        ]
+        ],
+        "colors": {
+            "primary": "#2ecc71",
+            "secondary": "#e74c3c",
+            "accent": "#3498db",
+            "background": "#ecf0f1"
+        }
     }
 ]
