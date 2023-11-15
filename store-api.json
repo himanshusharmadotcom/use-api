@@ -6,6 +6,7 @@
         "price": 20000,
         "description": "High-quality smartphone with advanced features.",
         "category": "Electronics",
+        "company": "Samsung",
         "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?smartphone,technology",
@@ -43,6 +44,7 @@
         "price": 30,
         "description": "Trendy t-shirt from a fashionable clothing brand.",
         "category": "Clothing",
+        "company": "Biba",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?tshirt,fashion",
@@ -80,6 +82,7 @@
         "price": 500,
         "description": "High-quality cookware set for your kitchen.",
         "category": "Home & Kitchen",
+        "company": "Godrej Interio",
         "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?cookware,kitchen",
@@ -117,6 +120,7 @@
         "price": 100,
         "description": "Immersive wireless headphones for music lovers.",
         "category": "Electronics",
+        "company": "Sony",
         "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?headphones,music",
@@ -154,6 +158,7 @@
         "price": 50,
         "description": "Luxury lipstick set with vibrant colors.",
         "category": "Beauty",
+        "company": "Nykaa",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?lipstick,makeup",
@@ -191,6 +196,7 @@
         "price": 25,
         "description": "Educational building blocks for kids.",
         "category": "Toys",
+        "company": "Funskool",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?toys,blocks",
@@ -228,6 +234,7 @@
         "price": 800,
         "description": "Designer sofa for a stylish living room.",
         "category": "Furniture",
+        "company": "Floyd Home",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?sofa,livingroom",
@@ -265,6 +272,7 @@
         "price": 150,
         "description": "Durable camping tent for outdoor adventures.",
         "category": "Sports & Outdoors",
+        "company": "NEMO Equipment",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?camping,tent",
@@ -302,6 +310,7 @@
         "price": 1000,
         "description": "Exquisite diamond necklace for special occasions.",
         "category": "Jewelry",
+        "company": "CaratLane",
         "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?necklace,jewelry",
@@ -340,6 +349,7 @@
         "description": "Popular novel for book enthusiasts.",
         "featured" : false,
         "category": "Books",
+        "company": "Harper Collins",
         "images": [
             "https://source.unsplash.com/400x400/?book,novel",
             "https://source.unsplash.com/400x400/?reading,literature",
@@ -377,6 +387,7 @@
         "description": "Cutting-edge smartwatch with advanced features.",
         "featured" : false,
         "category": "Electronics",
+        "company": "Samsung",
         "images": [
             "https://source.unsplash.com/400x400/?smartwatch,technology",
             "https://source.unsplash.com/400x400/?watch,gadget",
@@ -414,6 +425,7 @@
         "description": "Fashionable slim fit jeans for a stylish look.",
         "featured" : false,
         "category": "Clothing",
+        "company": "Biba",
         "images": [
             "https://source.unsplash.com/400x400/?jeans,fashion",
             "https://source.unsplash.com/400x400/?clothing,style",
@@ -451,6 +463,7 @@
         "description": "High-resolution digital camera for photography enthusiasts.",
         "featured" : false,
         "category": "Electronics",
+        "company": "Sony",
         "images": [
             "https://source.unsplash.com/400x400/?camera,photography",
             "https://source.unsplash.com/400x400/?digital,technology",
@@ -488,6 +501,7 @@
         "description": "Comfortable and durable running shoes for athletes.",
         "featured" : false,
         "category": "Sports & Outdoors",
+        "company": "NEMO Equipment",
         "images": [
             "https://source.unsplash.com/400x400/?running,shoes",
             "https://source.unsplash.com/400x400/?footwear,sport",
@@ -525,6 +539,7 @@
         "description": "Portable Bluetooth speaker for high-quality sound.",
         "featured" : false,
         "category": "Electronics",
+        "company": "Samsung",
         "images": [
             "https://source.unsplash.com/400x400/?speaker,audio",
             "https://source.unsplash.com/400x400/?bluetooth,gadget",
@@ -562,6 +577,7 @@
         "description": "High-quality treadmill for home workouts.",
         "featured" : false,
         "category": "Sports & Outdoors",
+        "company": "NEMO Equipment",
         "images": [
             "https://source.unsplash.com/400x400/?treadmill,exercise",
             "https://source.unsplash.com/400x400/?fitness,running",
@@ -599,6 +615,7 @@
         "description": "Efficient coffee maker for brewing your favorite beverages.",
         "featured" : false,
         "category": "Home & Kitchen",
+        "company": "Godrej Interio",
         "images": [
             "https://source.unsplash.com/400x400/?coffee,maker",
             "https://source.unsplash.com/400x400/?kitchen,appliance",
@@ -636,6 +653,7 @@
         "description": "High-performance gaming console for immersive gaming experiences.",
         "featured" : false,
         "category": "Electronics",
+        "company": "Samsung",
         "images": [
             "https://source.unsplash.com/400x400/?gaming,console",
             "https://source.unsplash.com/400x400/?video,games",
@@ -673,6 +691,7 @@
         "description": "High-quality yoga mat for comfortable workouts.",
         "featured" : false,
         "category": "Sports & Outdoors",
+        "company": "NEMO Equipment",
         "images": [
             "https://source.unsplash.com/400x400/?yoga,mat",
             "https://source.unsplash.com/400x400/?fitness,exercise",
@@ -710,6 +729,7 @@
         "description": "Adjustable desk lamp for optimal lighting.",
         "featured" : false,
         "category": "Home & Kitchen",
+        "company": "Godrej Interio",
         "images": [
             "https://source.unsplash.com/400x400/?lamp,desk",
             "https://source.unsplash.com/400x400/?lighting,office",
