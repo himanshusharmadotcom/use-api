@@ -6,6 +6,7 @@
         "price": 20000,
         "description": "High-quality smartphone with advanced features.",
         "category": "Electronics",
+        "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?smartphone,technology",
             "https://source.unsplash.com/400x400/?phone,gadget",
@@ -42,6 +43,7 @@
         "price": 30,
         "description": "Trendy t-shirt from a fashionable clothing brand.",
         "category": "Clothing",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?tshirt,fashion",
             "https://source.unsplash.com/400x400/?clothing,style",
@@ -78,6 +80,7 @@
         "price": 500,
         "description": "High-quality cookware set for your kitchen.",
         "category": "Home & Kitchen",
+        "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?cookware,kitchen",
             "https://source.unsplash.com/400x400/?kitchenware,pots",
@@ -114,6 +117,7 @@
         "price": 100,
         "description": "Immersive wireless headphones for music lovers.",
         "category": "Electronics",
+        "featured" : true,
         "images": [
             "https://source.unsplash.com/400x400/?headphones,music",
             "https://source.unsplash.com/400x400/?audio,technology",
@@ -150,6 +154,7 @@
         "price": 50,
         "description": "Luxury lipstick set with vibrant colors.",
         "category": "Beauty",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?lipstick,makeup",
             "https://source.unsplash.com/400x400/?cosmetics,beauty",
@@ -186,6 +191,7 @@
         "price": 25,
         "description": "Educational building blocks for kids.",
         "category": "Toys",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?toys,blocks",
             "https://source.unsplash.com/400x400/?kids,educational",
@@ -222,6 +228,7 @@
         "price": 800,
         "description": "Designer sofa for a stylish living room.",
         "category": "Furniture",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?sofa,livingroom",
             "https://source.unsplash.com/400x400/?furniture,design",
@@ -258,6 +265,7 @@
         "price": 150,
         "description": "Durable camping tent for outdoor adventures.",
         "category": "Sports & Outdoors",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?camping,tent",
             "https://source.unsplash.com/400x400/?outdoors,adventure",
@@ -294,6 +302,7 @@
         "price": 1000,
         "description": "Exquisite diamond necklace for special occasions.",
         "category": "Jewelry",
+        "featured" : false,
         "images": [
             "https://source.unsplash.com/400x400/?necklace,jewelry",
             "https://source.unsplash.com/400x400/?diamond,accessory",
@@ -329,6 +338,7 @@
         "stock": 5,
         "price": 20,
         "description": "Popular novel for book enthusiasts.",
+        "featured" : false,
         "category": "Books",
         "images": [
             "https://source.unsplash.com/400x400/?book,novel",
@@ -365,6 +375,7 @@
         "stock": 5,
         "price": 300,
         "description": "Cutting-edge smartwatch with advanced features.",
+        "featured" : false,
         "category": "Electronics",
         "images": [
             "https://source.unsplash.com/400x400/?smartwatch,technology",
@@ -401,6 +412,7 @@
         "stock": 5,
         "price": 50,
         "description": "Fashionable slim fit jeans for a stylish look.",
+        "featured" : false,
         "category": "Clothing",
         "images": [
             "https://source.unsplash.com/400x400/?jeans,fashion",
@@ -428,6 +440,302 @@
             "#3498db",
             "#e74c3c",
             "#2ecc71",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Digital Camera",
+        "stock": 5,
+        "price": 400,
+        "description": "High-resolution digital camera for photography enthusiasts.",
+        "featured" : false,
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/400x400/?camera,photography",
+            "https://source.unsplash.com/400x400/?digital,technology",
+            "https://source.unsplash.com/400x400/?gadget,device",
+            "https://source.unsplash.com/400x400/?electronics,tech"
+        ],
+        "rating": {
+            "rate": 4.7,
+            "count": 30
+        },
+        "reviews": [
+            {
+                "user": "User25",
+                "comment": "Great image quality!",
+                "date": "2023-10-16"
+            },
+            {
+                "user": "User26",
+                "comment": "Easy to use interface.",
+                "date": "2023-10-15"
+            }
+        ],
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Running Shoes",
+        "stock": 5,
+        "price": 80,
+        "description": "Comfortable and durable running shoes for athletes.",
+        "featured" : false,
+        "category": "Sports & Outdoors",
+        "images": [
+            "https://source.unsplash.com/400x400/?running,shoes",
+            "https://source.unsplash.com/400x400/?footwear,sport",
+            "https://source.unsplash.com/400x400/?athletics,fitness",
+            "https://source.unsplash.com/400x400/?training,exercise"
+        ],
+        "rating": {
+            "rate": 4.5,
+            "count": 28
+        },
+        "reviews": [
+            {
+                "user": "User27",
+                "comment": "Excellent support and comfort!",
+                "date": "2023-10-14"
+            },
+            {
+                "user": "User28",
+                "comment": "Great for long-distance running.",
+                "date": "2023-10-13"
+            }
+        ],
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Bluetooth Speaker",
+        "stock": 5,
+        "price": 120,
+        "description": "Portable Bluetooth speaker for high-quality sound.",
+        "featured" : false,
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/400x400/?speaker,audio",
+            "https://source.unsplash.com/400x400/?bluetooth,gadget",
+            "https://source.unsplash.com/400x400/?music,device",
+            "https://source.unsplash.com/400x400/?electronics,tech"
+        ],
+        "rating": {
+            "rate": 4.4,
+            "count": 32
+        },
+        "reviews": [
+            {
+                "user": "User29",
+                "comment": "Impressive sound clarity!",
+                "date": "2023-10-12"
+            },
+            {
+                "user": "User30",
+                "comment": "Long battery life.",
+                "date": "2023-10-11"
+            }
+        ],
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Treadmill",
+        "stock": 5,
+        "price": 1000,
+        "description": "High-quality treadmill for home workouts.",
+        "featured" : false,
+        "category": "Sports & Outdoors",
+        "images": [
+            "https://source.unsplash.com/400x400/?treadmill,exercise",
+            "https://source.unsplash.com/400x400/?fitness,running",
+            "https://source.unsplash.com/400x400/?gym,equipment",
+            "https://source.unsplash.com/400x400/?workout,training"
+        ],
+        "rating": {
+            "rate": 4.8,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "User31",
+                "comment": "Sturdy build and multiple functions!",
+                "date": "2023-10-10"
+            },
+            {
+                "user": "User32",
+                "comment": "Great for indoor running sessions.",
+                "date": "2023-10-09"
+            }
+        ],
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Coffee Maker",
+        "stock": 5,
+        "price": 80,
+        "description": "Efficient coffee maker for brewing your favorite beverages.",
+        "featured" : false,
+        "category": "Home & Kitchen",
+        "images": [
+            "https://source.unsplash.com/400x400/?coffee,maker",
+            "https://source.unsplash.com/400x400/?kitchen,appliance",
+            "https://source.unsplash.com/400x400/?brewing,device",
+            "https://source.unsplash.com/400x400/?beverages,coffee"
+        ],
+        "rating": {
+            "rate": 4.3,
+            "count": 30
+        },
+        "reviews": [
+            {
+                "user": "User33",
+                "comment": "Easy to use and clean!",
+                "date": "2023-10-08"
+            },
+            {
+                "user": "User34",
+                "comment": "Makes great-tasting coffee.",
+                "date": "2023-10-07"
+            }
+        ],
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Gaming Console",
+        "stock": 5,
+        "price": 400,
+        "description": "High-performance gaming console for immersive gaming experiences.",
+        "featured" : false,
+        "category": "Electronics",
+        "images": [
+            "https://source.unsplash.com/400x400/?gaming,console",
+            "https://source.unsplash.com/400x400/?video,games",
+            "https://source.unsplash.com/400x400/?tech,entertainment",
+            "https://source.unsplash.com/400x400/?electronics,device"
+        ],
+        "rating": {
+            "rate": 4.7,
+            "count": 35
+        },
+        "reviews": [
+            {
+                "user": "User35",
+                "comment": "Smooth gameplay and great graphics!",
+                "date": "2023-10-06"
+            },
+            {
+                "user": "User36",
+                "comment": "A must-have for gamers.",
+                "date": "2023-10-05"
+            }
+        ],
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Yoga Mat",
+        "stock": 5,
+        "price": 30,
+        "description": "High-quality yoga mat for comfortable workouts.",
+        "featured" : false,
+        "category": "Sports & Outdoors",
+        "images": [
+            "https://source.unsplash.com/400x400/?yoga,mat",
+            "https://source.unsplash.com/400x400/?fitness,exercise",
+            "https://source.unsplash.com/400x400/?workout,training",
+            "https://source.unsplash.com/400x400/?sports,health"
+        ],
+        "rating": {
+            "rate": 4.6,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "User37",
+                "comment": "Great grip and thickness!",
+                "date": "2023-10-04"
+            },
+            {
+                "user": "User38",
+                "comment": "Feels comfortable during yoga sessions.",
+                "date": "2023-10-03"
+            }
+        ],
+        "colors": [
+            "#3498db",
+            "#e74c3c",
+            "#2ecc71",
+            "#ecf0f1"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Desk Lamp",
+        "stock": 5,
+        "price": 50,
+        "description": "Adjustable desk lamp for optimal lighting.",
+        "featured" : false,
+        "category": "Home & Kitchen",
+        "images": [
+            "https://source.unsplash.com/400x400/?lamp,desk",
+            "https://source.unsplash.com/400x400/?lighting,office",
+            "https://source.unsplash.com/400x400/?workspace,working",
+            "https://source.unsplash.com/400x400/?home,interior"
+        ],
+        "rating": {
+            "rate": 4.4,
+            "count": 20
+        },
+        "reviews": [
+            {
+                "user": "User39",
+                "comment": "Sleek design and adjustable brightness!",
+                "date": "2023-10-02"
+            },
+            {
+                "user": "User40",
+                "comment": "Perfect for my workspace.",
+                "date": "2023-10-01"
+            }
+        ],
+        "colors": [
+            "#e74c3c",
+            "#2ecc71",
+            "#3498db",
             "#ecf0f1"
         ]
     }
