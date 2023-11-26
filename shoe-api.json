@@ -1,38 +1,1149 @@
-{
-    "id": 1,
-    "title": "Elegant Leather Dress Shoes",
-    "stock": 8,
-    "price": 18000,
-    "description": "Sophisticated leather dress shoes designed for style and comfort.",
-    "category": "dress_shoes",
-    "company": "GentleSteps",
-    "featured": true,
-    "images": {
-        "#000000": "https://source.unsplash.com/400x400/?shoes,black",
-        "#FF0000": "https://source.unsplash.com/400x400/?shoes,red",
-        "#FFFFFF": "https://source.unsplash.com/400x400/?shoes,white",
-        "#0000FF": "https://source.unsplash.com/400x400/?shoes,blue"
-    },
-    "rating": {
-        "rate": 4.8,
-        "count": 12
-    },
-    "reviews": [
-        {
-            "user": "FashionGuy",
-            "comment": "Perfect blend of style and comfort!",
-            "date": "2023-11-20"
+[
+    {
+        "id": 1,
+        "title": "Elegant Leather Dress Shoes",
+        "stock": 8,
+        "price": 18000,
+        "description": "Sophisticated leather dress shoes designed for style and comfort.",
+        "category": "dress_shoes",
+        "company": "GentleSteps",
+        "featured": true,
+        "images": {
+            "#000000": "https://source.unsplash.com/400x400/?shoes,black",
+            "#FF0000": "https://source.unsplash.com/400x400/?shoes,red",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?shoes,white"
         },
-        {
-            "user": "ShoeLover123",
-            "comment": "Great fit and premium quality leather.",
-            "date": "2023-11-18"
-        }
-    ],
-    "colors": [
-        "#000000",
-        "#FF0000",
-        "#FFFFFF",
-        "#0000FF"
-    ]
-}
+        "rating": {
+            "rate": 4.8,
+            "count": 12
+        },
+        "reviews": [
+            {
+                "user": "FashionGuy",
+                "comment": "Perfect blend of style and comfort!",
+                "date": "2023-11-20"
+            },
+            {
+                "user": "ShoeLover123",
+                "comment": "Great fit and premium quality leather.",
+                "date": "2023-11-18"
+            }
+        ],
+        "colors": [
+            "#000000",
+            "#FF0000",
+            "#FFFFFF"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 2,
+        "title": "Classic Suede Loafers",
+        "stock": 12,
+        "price": 16000,
+        "description": "Comfortable and stylish suede loafers for a relaxed yet sophisticated look.",
+        "category": "dress_shoes",
+        "company": "SuedeStyle",
+        "featured": true,
+        "images": {
+            "#7B68EE": "https://source.unsplash.com/400x400/?shoes,loafers",
+            "#FFD700": "https://source.unsplash.com/400x400/?shoes,yellow",
+            "#696969": "https://source.unsplash.com/400x400/?shoes,gray"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 8
+        },
+        "reviews": [
+            {
+                "user": "LoaferFan",
+                "comment": "Super comfortable and great quality!",
+                "date": "2023-11-25"
+            },
+            {
+                "user": "StylishGuy",
+                "comment": "Love the elegant design.",
+                "date": "2023-11-23"
+            }
+        ],
+        "colors": [
+            "#7B68EE",
+            "#FFD700",
+            "#696969"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 3,
+        "title": "Wingtip Brogue Shoes",
+        "stock": 6,
+        "price": 21000,
+        "description": "Classic wingtip brogue shoes - a timeless addition to any formal wardrobe.",
+        "category": "dress_shoes",
+        "company": "ClassicSteps",
+        "featured": true,
+        "images": {
+            "#8B4513": "https://source.unsplash.com/400x400/?shoes,brogue",
+            "#228B22": "https://source.unsplash.com/400x400/?shoes,green",
+            "#CD853F": "https://source.unsplash.com/400x400/?shoes,brown"
+        },
+        "rating": {
+            "rate": 4.9,
+            "count": 15
+        },
+        "reviews": [
+            {
+                "user": "BrogueEnthusiast",
+                "comment": "Exquisite design and impeccable craftsmanship!",
+                "date": "2023-11-26"
+            },
+            {
+                "user": "Fashionista123",
+                "comment": "These shoes elevate any outfit.",
+                "date": "2023-11-24"
+            }
+        ],
+        "colors": [
+            "#8B4513",
+            "#228B22",
+            "#CD853F"
+        ],
+        "discount": 20
+    },
+    {
+        "id": 4,
+        "title": "Patent Leather Derby Shoes",
+        "stock": 5,
+        "price": 25000,
+        "description": "Shiny and sophisticated patent leather derby shoes for a polished look.",
+        "category": "dress_shoes",
+        "company": "ShineSteps",
+        "featured": true,
+        "images": {
+            "#FF1493": "https://source.unsplash.com/400x400/?shoes,patent",
+            "#4169E1": "https://source.unsplash.com/400x400/?shoes,blue",
+            "#DAA520": "https://source.unsplash.com/400x400/?shoes,gold"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 10
+        },
+        "reviews": [
+            {
+                "user": "ShinyShoesFan",
+                "comment": "Love the glossy finish!",
+                "date": "2023-11-22"
+            },
+            {
+                "user": "DapperDude",
+                "comment": "These shoes make a statement.",
+                "date": "2023-11-20"
+            }
+        ],
+        "colors": [
+            "#FF1493",
+            "#4169E1",
+            "#DAA520"
+        ],
+        "discount": 0
+    },
+    {
+        "id": 5,
+        "title": "Double Monk Strap Shoes",
+        "stock": 9,
+        "price": 19000,
+        "description": "Unique and stylish double monk strap shoes for a contemporary look.",
+        "category": "dress_shoes",
+        "company": "ModernStyle",
+        "featured": true,
+        "images": {
+            "#4682B4": "https://source.unsplash.com/400x400/?shoes,monkstrap",
+            "#FFA500": "https://source.unsplash.com/400x400/?shoes,orange",
+            "#2F4F4F": "https://source.unsplash.com/400x400/?shoes,darkgray"
+        },
+        "rating": {
+            "rate": 4.5,
+            "count": 7
+        },
+        "reviews": [
+            {
+                "user": "TrendyShoeGuy",
+                "comment": "Absolutely love the style!",
+                "date": "2023-11-21"
+            },
+            {
+                "user": "FashionForward",
+                "comment": "Makes a bold fashion statement.",
+                "date": "2023-11-19"
+            }
+        ],
+        "colors": [
+            "#4682B4",
+            "#FFA500",
+            "#2F4F4F"
+        ],
+        "discount": 5
+    },
+    {
+        "id": 6,
+        "title": "Canvas Sneakers",
+        "stock": 15,
+        "price": 5000,
+        "description": "Comfortable canvas sneakers, perfect for everyday casual wear.",
+        "category": "casual_shoes",
+        "company": "CasualKicks",
+        "featured": true,
+        "images": {
+            "#FFD700": "https://source.unsplash.com/400x400/?sneakers,yellow",
+            "#808080": "https://source.unsplash.com/400x400/?sneakers,gray",
+            "#008000": "https://source.unsplash.com/400x400/?sneakers,green"
+        },
+        "rating": {
+            "rate": 4.2,
+            "count": 18
+        },
+        "reviews": [
+            {
+                "user": "SneakerFanatic",
+                "comment": "Love these comfy sneakers!",
+                "date": "2023-11-27"
+            },
+            {
+                "user": "CasualStyleGuy",
+                "comment": "Great for everyday use.",
+                "date": "2023-11-25"
+            }
+        ],
+        "colors": [
+            "#FFD700",
+            "#808080",
+            "#008000"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 7,
+        "title": "Casual Slip-Ons",
+        "stock": 10,
+        "price": 6000,
+        "description": "Stylish and easy-going slip-on shoes for casual occasions.",
+        "category": "casual_shoes",
+        "company": "EasySteps",
+        "featured": true,
+        "images": {
+            "#0000FF": "https://source.unsplash.com/400x400/?slipons,blue",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?slipons,white",
+            "#FF4500": "https://source.unsplash.com/400x400/?slipons,orange"
+        },
+        "rating": {
+            "rate": 4.5,
+            "count": 14
+        },
+        "reviews": [
+            {
+                "user": "SlipOnLover",
+                "comment": "So convenient and stylish!",
+                "date": "2023-11-24"
+            },
+            {
+                "user": "CasualChic",
+                "comment": "Love the comfort and design.",
+                "date": "2023-11-22"
+            }
+        ],
+        "colors": [
+            "#0000FF",
+            "#FFFFFF",
+            "#FF4500"
+        ],
+        "discount": 5
+    },
+    {
+        "id": 8,
+        "title": "Casual Low-Top Sneakers",
+        "stock": 20,
+        "price": 5500,
+        "description": "Low-top sneakers that offer both style and comfort for casual outings.",
+        "category": "casual_shoes",
+        "company": "ChillSteps",
+        "featured": true,
+        "images": {
+            "#32CD32": "https://source.unsplash.com/400x400/?lowtops,green",
+            "#FF1493": "https://source.unsplash.com/400x400/?lowtops,pink",
+            "#FFFF00": "https://source.unsplash.com/400x400/?lowtops,yellow"
+        },
+        "rating": {
+            "rate": 4.3,
+            "count": 20
+        },
+        "reviews": [
+            {
+                "user": "SneakerEnthusiast",
+                "comment": "Amazing low-top sneakers!",
+                "date": "2023-11-23"
+            },
+            {
+                "user": "CasualFashionista",
+                "comment": "Perfect blend of comfort and style.",
+                "date": "2023-11-21"
+            }
+        ],
+        "colors": [
+            "#32CD32",
+            "#FF1493",
+            "#FFFF00"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 9,
+        "title": "Classic Boat Shoes",
+        "stock": 18,
+        "price": 7000,
+        "description": "Classic boat shoes perfect for a casual yet classy look.",
+        "category": "casual_shoes",
+        "company": "SeasideStyle",
+        "featured": true,
+        "images": {
+            "#2E8B57": "https://source.unsplash.com/400x400/?boatshoes,green",
+            "#8B4513": "https://source.unsplash.com/400x400/?boatshoes,brown",
+            "#4169E1": "https://source.unsplash.com/400x400/?boatshoes,blue"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 15
+        },
+        "reviews": [
+            {
+                "user": "BoatShoeLover",
+                "comment": "Love the nautical style!",
+                "date": "2023-11-20"
+            },
+            {
+                "user": "CasualSailor",
+                "comment": "Comfy and stylish, perfect for summer.",
+                "date": "2023-11-18"
+            }
+        ],
+        "colors": [
+            "#2E8B57",
+            "#8B4513",
+            "#4169E1"
+        ],
+        "discount": 0
+    },
+    {
+        "id": 10,
+        "title": "Casual High-Top Sneakers",
+        "stock": 13,
+        "price": 6500,
+        "description": "Trendy high-top sneakers for a fashionable casual look.",
+        "category": "casual_shoes",
+        "company": "TrendySteps",
+        "featured": true,
+        "images": {
+            "#800080": "https://source.unsplash.com/400x400/?hightops,purple",
+            "#FF6347": "https://source.unsplash.com/400x400/?hightops,red",
+            "#00CED1": "https://source.unsplash.com/400x400/?hightops,blue"
+        },
+        "rating": {
+            "rate": 4.4,
+            "count": 12
+        },
+        "reviews": [
+            {
+                "user": "SneakerFashionista",
+                "comment": "Great high-top sneakers, very stylish!",
+                "date": "2023-11-19"
+            },
+            {
+                "user": "CasualTrendsetter",
+                "comment": "Love the edgy look of these sneakers.",
+                "date": "2023-11-17"
+            }
+        ],
+        "colors": [
+            "#800080",
+            "#FF6347",
+            "#00CED1"
+        ],
+        "discount": 8
+    },
+    {
+        "id": 11,
+        "title": "Classic Leather Ankle Boots",
+        "stock": 10,
+        "price": 8500,
+        "description": "Timeless leather ankle boots for a sophisticated and versatile look.",
+        "category": "boots_shoes",
+        "company": "ClassicBoots",
+        "featured": true,
+        "images": {
+            "#000000": "https://source.unsplash.com/400x400/?ankleboots,black",
+            "#8B4513": "https://source.unsplash.com/400x400/?ankleboots,brown",
+            "#4682B4": "https://source.unsplash.com/400x400/?ankleboots,blue"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 15
+        },
+        "reviews": [
+            {
+                "user": "AnkleBootFan",
+                "comment": "Perfect fit and stylish!",
+                "date": "2023-11-25"
+            },
+            {
+                "user": "FashionForwarder",
+                "comment": "Versatile boots for any outfit.",
+                "date": "2023-11-23"
+            }
+        ],
+        "colors": [
+            "#000000",
+            "#8B4513",
+            "#4682B4"
+        ],
+        "discount": 12
+    },
+    {
+        "id": 12,
+        "title": "Hiking Boots",
+        "stock": 8,
+        "price": 9500,
+        "description": "Durable and rugged hiking boots for outdoor adventures.",
+        "category": "boots_shoes",
+        "company": "OutdoorTracks",
+        "featured": true,
+        "images": {
+            "#556B2F": "https://source.unsplash.com/400x400/?hikingboots,brown",
+            "#2E8B57": "https://source.unsplash.com/400x400/?hikingboots,green",
+            "#708090": "https://source.unsplash.com/400x400/?hikingboots,gray"
+        },
+        "rating": {
+            "rate": 4.9,
+            "count": 20
+        },
+        "reviews": [
+            {
+                "user": "HikingEnthusiast",
+                "comment": "Exceptionally durable and comfortable boots!",
+                "date": "2023-11-24"
+            },
+            {
+                "user": "OutdoorExplorer",
+                "comment": "Perfect for tough terrains.",
+                "date": "2023-11-22"
+            }
+        ],
+        "colors": [
+            "#556B2F",
+            "#2E8B57",
+            "#708090"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 13,
+        "title": "Fashionable Knee-High Boots",
+        "stock": 12,
+        "price": 10500,
+        "description": "Stylish knee-high boots to elevate your fashion game.",
+        "category": "boots_shoes",
+        "company": "FashionBootsInc",
+        "featured": true,
+        "images": {
+            "#800080": "https://source.unsplash.com/400x400/?kneehighboots,purple",
+            "#FF4500": "https://source.unsplash.com/400x400/?kneehighboots,orange",
+            "#0000FF": "https://source.unsplash.com/400x400/?kneehighboots,blue"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 18
+        },
+        "reviews": [
+            {
+                "user": "FashionistaBootlover",
+                "comment": "Absolutely stunning boots!",
+                "date": "2023-11-23"
+            },
+            {
+                "user": "StyleIcon",
+                "comment": "These boots complete any outfit.",
+                "date": "2023-11-21"
+            }
+        ],
+        "colors": [
+            "#800080",
+            "#FF4500",
+            "#0000FF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 14,
+        "title": "Winter Snow Boots",
+        "stock": 6,
+        "price": 12000,
+        "description": "Insulated snow boots designed to keep your feet warm and dry in the winter.",
+        "category": "boots_shoes",
+        "company": "SnowySteps",
+        "featured": true,
+        "images": {
+            "#FFFFFF": "https://source.unsplash.com/400x400/?snowboots,white",
+            "#000000": "https://source.unsplash.com/400x400/?snowboots,black",
+            "#4169E1": "https://source.unsplash.com/400x400/?snowboots,blue"
+        },
+        "rating": {
+            "rate": 4.8,
+            "count": 12
+        },
+        "reviews": [
+            {
+                "user": "WinterExplorer",
+                "comment": "Kept me warm and comfortable in the snow!",
+                "date": "2023-11-20"
+            },
+            {
+                "user": "SnowLover",
+                "comment": "Great for extreme weather conditions.",
+                "date": "2023-11-18"
+            }
+        ],
+        "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#4169E1"
+        ],
+        "discount": 20
+    },
+    {
+        "id": 15,
+        "title": "Western Cowboy Boots",
+        "stock": 9,
+        "price": 9000,
+        "description": "Authentic and stylish cowboy boots for a western-inspired look.",
+        "category": "boots_shoes",
+        "company": "WesternStyle",
+        "featured": true,
+        "images": {
+            "#8B4513": "https://source.unsplash.com/400x400/?cowboyboots,brown",
+            "#FFD700": "https://source.unsplash.com/400x400/?cowboyboots,yellow",
+            "#000000": "https://source.unsplash.com/400x400/?cowboyboots,black"
+        },
+        "rating": {
+            "rate": 4.5,
+            "count": 14
+        },
+        "reviews": [
+            {
+                "user": "CowboyStyleFan",
+                "comment": "Great boots with a classic western vibe!",
+                "date": "2023-11-22"
+            },
+            {
+                "user": "WesternEnthusiast",
+                "comment": "Perfect for a cowboy-themed event.",
+                "date": "2023-11-20"
+            }
+        ],
+        "colors": [
+            "#8B4513",
+            "#FFD700",
+            "#000000"
+        ],
+        "discount": 8
+    },
+    {
+        "id": 16,
+        "title": "Beach Flip-Flops",
+        "stock": 20,
+        "price": 2500,
+        "description": "Comfortable and colorful flip-flops perfect for a day at the beach.",
+        "category": "sandals_and_flip_flops",
+        "company": "BeachStyle",
+        "featured": true,
+        "images": {
+            "#FFD700": "https://source.unsplash.com/400x400/?flipflops,yellow",
+            "#87CEEB": "https://source.unsplash.com/400x400/?flipflops,blue",
+            "#FF69B4": "https://source.unsplash.com/400x400/?flipflops,pink"
+        },
+        "rating": {
+            "rate": 4.4,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "BeachGoer123",
+                "comment": "Perfect for a day on the sand!",
+                "date": "2023-11-27"
+            },
+            {
+                "user": "FlipFlopFanatic",
+                "comment": "Comfy and vibrant colors!",
+                "date": "2023-11-25"
+            }
+        ],
+        "colors": [
+            "#FFD700",
+            "#87CEEB",
+            "#FF69B4"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 17,
+        "title": "Casual Sandals",
+        "stock": 15,
+        "price": 3500,
+        "description": "Stylish and versatile sandals for everyday casual wear.",
+        "category": "sandals_and_flip_flops",
+        "company": "CasualVibe",
+        "featured": true,
+        "images": {
+            "#A0522D": "https://source.unsplash.com/400x400/?sandals,brown",
+            "#0000FF": "https://source.unsplash.com/400x400/?sandals,blue",
+            "#FF4500": "https://source.unsplash.com/400x400/?sandals,orange"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 20
+        },
+        "reviews": [
+            {
+                "user": "SandalsLover",
+                "comment": "Super comfy and stylish!",
+                "date": "2023-11-24"
+            },
+            {
+                "user": "CasualChic123",
+                "comment": "Love the design and comfort.",
+                "date": "2023-11-22"
+            }
+        ],
+        "colors": [
+            "#A0522D",
+            "#0000FF",
+            "#FF4500"
+        ],
+        "discount": 5
+    },
+    {
+        "id": 18,
+        "title": "Sporty Slides",
+        "stock": 18,
+        "price": 3000,
+        "description": "Comfortable and sporty slides for a relaxed style.",
+        "category": "sandals_and_flip_flops",
+        "company": "SportEase",
+        "featured": true,
+        "images": {
+            "#00FF00": "https://source.unsplash.com/400x400/?slides,green",
+            "#FF1493": "https://source.unsplash.com/400x400/?slides,pink",
+            "#000000": "https://source.unsplash.com/400x400/?slides,black"
+        },
+        "rating": {
+            "rate": 4.5,
+            "count": 22
+        },
+        "reviews": [
+            {
+                "user": "SlideEnthusiast",
+                "comment": "Great for casual outings!",
+                "date": "2023-11-23"
+            },
+            {
+                "user": "SportyFashionista",
+                "comment": "Comfortable and trendy.",
+                "date": "2023-11-21"
+            }
+        ],
+        "colors": [
+            "#00FF00",
+            "#FF1493",
+            "#000000"
+        ],
+        "discount": 8
+    },
+    {
+        "id": 19,
+        "title": "Bohemian Style Sandals",
+        "stock": 12,
+        "price": 4000,
+        "description": "Bohemian-styled sandals for a unique and free-spirited look.",
+        "category": "sandals_and_flip_flops",
+        "company": "BohoFeet",
+        "featured": true,
+        "images": {
+            "#8B4513": "https://source.unsplash.com/400x400/?bohemian,sandals",
+            "#FFD700": "https://source.unsplash.com/400x400/?bohemian,colors",
+            "#8A2BE2": "https://source.unsplash.com/400x400/?bohemian,purple"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 18
+        },
+        "reviews": [
+            {
+                "user": "BohoLover",
+                "comment": "Absolutely love these sandals!",
+                "date": "2023-11-20"
+            },
+            {
+                "user": "FreeSpirit123",
+                "comment": "Unique and comfortable.",
+                "date": "2023-11-18"
+            }
+        ],
+        "colors": [
+            "#8B4513",
+            "#FFD700",
+            "#8A2BE2"
+        ],
+        "discount": 12
+    },
+    {
+        "id": 20,
+        "title": "Elegant Summer Sandals",
+        "stock": 14,
+        "price": 4500,
+        "description": "Elegantly designed sandals for a chic summer look.",
+        "category": "sandals_and_flip_flops",
+        "company": "SummerElegance",
+        "featured": true,
+        "images": {
+            "#FF69B4": "https://source.unsplash.com/400x400/?summersandals,pink",
+            "#00CED1": "https://source.unsplash.com/400x400/?summersandals,blue",
+            "#FFFF00": "https://source.unsplash.com/400x400/?summersandals,yellow"
+        },
+        "rating": {
+            "rate": 4.8,
+            "count": 16
+        },
+        "reviews": [
+            {
+                "user": "SummerStyle",
+                "comment": "Very stylish and comfortable!",
+                "date": "2023-11-22"
+            },
+            {
+                "user": "ChicFashionista",
+                "comment": "Love the design and quality.",
+                "date": "2023-11-20"
+            }
+        ],
+        "colors": [
+            "#FF69B4",
+            "#00CED1",
+            "#FFFF00"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 21,
+        "title": "Running Shoes",
+        "stock": 25,
+        "price": 6000,
+        "description": "High-performance running shoes for your daily workouts.",
+        "category": "athletics_shoes",
+        "company": "RunFit",
+        "featured": true,
+        "images": {
+            "#FF0000": "https://source.unsplash.com/400x400/?runningshoes,red",
+            "#000000": "https://source.unsplash.com/400x400/?runningshoes,black",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?runningshoes,white"
+        },
+        "rating": {
+            "rate": 4.9,
+            "count": 30
+        },
+        "reviews": [
+            {
+                "user": "RunningEnthusiast",
+                "comment": "Excellent shoes for running!",
+                "date": "2023-11-30"
+            },
+            {
+                "user": "FitnessRunner",
+                "comment": "Comfortable and great support.",
+                "date": "2023-11-28"
+            }
+        ],
+        "colors": [
+            "#FF0000",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 22,
+        "title": "Basketball Sneakers",
+        "stock": 20,
+        "price": 8000,
+        "description": "Durable and supportive basketball sneakers for on-court performance.",
+        "category": "athletics_shoes",
+        "company": "HoopsElite",
+        "featured": true,
+        "images": {
+            "#FF4500": "https://source.unsplash.com/400x400/?basketballsneakers,orange",
+            "#0000FF": "https://source.unsplash.com/400x400/?basketballsneakers,blue",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?basketballsneakers,white"
+        },
+        "rating": {
+            "rate": 4.8,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "BasketballPro",
+                "comment": "Great traction and ankle support!",
+                "date": "2023-11-29"
+            },
+            {
+                "user": "HoopsFanatic",
+                "comment": "Perfect for basketball games.",
+                "date": "2023-11-27"
+            }
+        ],
+        "colors": [
+            "#FF4500",
+            "#0000FF",
+            "#FFFFFF"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 23,
+        "title": "Soccer Cleats",
+        "stock": 18,
+        "price": 7500,
+        "description": "Professional-grade soccer cleats for enhanced performance on the field.",
+        "category": "athletics_shoes",
+        "company": "SoccerElite",
+        "featured": true,
+        "images": {
+            "#008000": "https://source.unsplash.com/400x400/?soccercleats,green",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?soccercleats,white",
+            "#FFD700": "https://source.unsplash.com/400x400/?soccercleats,yellow"
+        },
+        "rating": {
+            "rate": 4.9,
+            "count": 22
+        },
+        "reviews": [
+            {
+                "user": "SoccerPlayer123",
+                "comment": "Amazing grip and control!",
+                "date": "2023-11-28"
+            },
+            {
+                "user": "SoccerFanatic",
+                "comment": "Comfortable and perfect for games.",
+                "date": "2023-11-26"
+            }
+        ],
+        "colors": [
+            "#008000",
+            "#FFFFFF",
+            "#FFD700"
+        ],
+        "discount": 12
+    },
+    {
+        "id": 24,
+        "title": "Tennis Shoes",
+        "stock": 22,
+        "price": 7000,
+        "description": "Stylish and supportive tennis shoes for court performance.",
+        "category": "athletics_shoes",
+        "company": "TennisStyle",
+        "featured": true,
+        "images": {
+            "#FFFFFF": "https://source.unsplash.com/400x400/?tennisshoes,white",
+            "#0000FF": "https://source.unsplash.com/400x400/?tennisshoes,blue",
+            "#FFD700": "https://source.unsplash.com/400x400/?tennisshoes,yellow"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 28
+        },
+        "reviews": [
+            {
+                "user": "TennisPlayer99",
+                "comment": "Great shoes for tennis matches!",
+                "date": "2023-11-27"
+            },
+            {
+                "user": "TennisEnthusiast",
+                "comment": "Comfortable and good grip.",
+                "date": "2023-11-25"
+            }
+        ],
+        "colors": [
+            "#FFFFFF",
+            "#0000FF",
+            "#FFD700"
+        ],
+        "discount": 8
+    },
+    {
+        "id": 25,
+        "title": "Gym Training Shoes",
+        "stock": 30,
+        "price": 6500,
+        "description": "Versatile and durable gym training shoes for varied workouts.",
+        "category": "athletics_shoes",
+        "company": "GymFlex",
+        "featured": true,
+        "images": {
+            "#FF0000": "https://source.unsplash.com/400x400/?gymtrainingshoes,red",
+            "#000000": "https://source.unsplash.com/400x400/?gymtrainingshoes,black",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?gymtrainingshoes,white"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 26
+        },
+        "reviews": [
+            {
+                "user": "FitnessFreak",
+                "comment": "Perfect for various workouts!",
+                "date": "2023-11-26"
+            },
+            {
+                "user": "GymAddict",
+                "comment": "Excellent support and flexibility.",
+                "date": "2023-11-24"
+            }
+        ],
+        "colors": [
+            "#FF0000",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 25,
+        "title": "Gym Training Shoes",
+        "stock": 30,
+        "price": 6500,
+        "description": "Versatile and durable gym training shoes for varied workouts.",
+        "category": "athletics_shoes",
+        "company": "GymFlex",
+        "featured": true,
+        "images": {
+            "#FF0000": "https://source.unsplash.com/400x400/?gymtrainingshoes,red",
+            "#000000": "https://source.unsplash.com/400x400/?gymtrainingshoes,black",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?gymtrainingshoes,white"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 26
+        },
+        "reviews": [
+            {
+                "user": "FitnessFreak",
+                "comment": "Perfect for various workouts!",
+                "date": "2023-11-26"
+            },
+            {
+                "user": "GymAddict",
+                "comment": "Excellent support and flexibility.",
+                "date": "2023-11-24"
+            }
+        ],
+        "colors": [
+            "#FF0000",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 26,
+        "title": "Classic Oxford Shoes",
+        "stock": 18,
+        "price": 9000,
+        "description": "Elegant and timeless Oxford shoes for formal occasions.",
+        "category": "formal_wear",
+        "company": "EleganceWear",
+        "featured": true,
+        "images": {
+            "#000000": "https://source.unsplash.com/400x400/?oxfordshoes,black",
+            "#000080": "https://source.unsplash.com/400x400/?oxfordshoes,navyblue",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?oxfordshoes,white"
+        },
+        "rating": {
+            "rate": 4.8,
+            "count": 30
+        },
+        "reviews": [
+            {
+                "user": "FormalElegance",
+                "comment": "Absolutely stunning formal shoes!",
+                "date": "2023-12-01"
+            },
+            {
+                "user": "ClassicStyleLover",
+                "comment": "Perfect for formal events.",
+                "date": "2023-11-29"
+            }
+        ],
+        "colors": [
+            "#000000",
+            "#000080",
+            "#FFFFFF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 27,
+        "title": "Leather Brogue Shoes",
+        "stock": 15,
+        "price": 8500,
+        "description": "Stylish and sophisticated brogue shoes made with high-quality leather.",
+        "category": "formal_wear",
+        "company": "BrogueMasters",
+        "featured": true,
+        "images": {
+            "#8B4513": "https://source.unsplash.com/400x400/?brogueshoes,brown",
+            "#000000": "https://source.unsplash.com/400x400/?brogueshoes,black",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?brogueshoes,white"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 25
+        },
+        "reviews": [
+            {
+                "user": "BrogueFanatic",
+                "comment": "Classy and comfortable!",
+                "date": "2023-11-30"
+            },
+            {
+                "user": "LeatherLover",
+                "comment": "Great craftsmanship!",
+                "date": "2023-11-28"
+            }
+        ],
+        "colors": [
+            "#8B4513",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "discount": 12
+    },
+    {
+        "id": 28,
+        "title": "Formal Monk-Strap Shoes",
+        "stock": 20,
+        "price": 9500,
+        "description": "Sophisticated monk-strap shoes for a polished formal look.",
+        "category": "formal_wear",
+        "company": "MonkStyle",
+        "featured": true,
+        "images": {
+            "#000000": "https://source.unsplash.com/400x400/?monkstrapshoes,black",
+            "#800000": "https://source.unsplash.com/400x400/?monkstrapshoes,maroon",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?monkstrapshoes,white"
+        },
+        "rating": {
+            "rate": 4.9,
+            "count": 28
+        },
+        "reviews": [
+            {
+                "user": "MonkStrapFan",
+                "comment": "Excellent formal shoes!",
+                "date": "2023-11-29"
+            },
+            {
+                "user": "FormalFashionista",
+                "comment": "Very stylish and comfortable.",
+                "date": "2023-11-27"
+            }
+        ],
+        "colors": [
+            "#000000",
+            "#800000",
+            "#FFFFFF"
+        ],
+        "discount": 8
+    },
+    {
+        "id": 29,
+        "title": "Dress Loafers",
+        "stock": 22,
+        "price": 8000,
+        "description": "Sleek and versatile dress loafers for a refined formal look.",
+        "category": "formal_wear",
+        "company": "LoaferStyle",
+        "featured": true,
+        "images": {
+            "#000080": "https://source.unsplash.com/400x400/?dressloafers,navyblue",
+            "#000000": "https://source.unsplash.com/400x400/?dressloafers,black",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?dressloafers,white"
+        },
+        "rating": {
+            "rate": 4.6,
+            "count": 26
+        },
+        "reviews": [
+            {
+                "user": "LoaferLover",
+                "comment": "Great formal shoes with style!",
+                "date": "2023-11-28"
+            },
+            {
+                "user": "DressyStyle",
+                "comment": "Versatile and comfortable.",
+                "date": "2023-11-26"
+            }
+        ],
+        "colors": [
+            "#000080",
+            "#000000",
+            "#FFFFFF"
+        ],
+        "discount": 10
+    },
+    {
+        "id": 30,
+        "title": "Formal Dress Boots",
+        "stock": 16,
+        "price": 10000,
+        "description": "Elegant and sophisticated dress boots for formal occasions.",
+        "category": "formal_wear",
+        "company": "DressyBoots",
+        "featured": true,
+        "images": {
+            "#000000": "https://source.unsplash.com/400x400/?dressboots,black",
+            "#8B0000": "https://source.unsplash.com/400x400/?dressboots,darkred",
+            "#FFFFFF": "https://source.unsplash.com/400x400/?dressboots,white"
+        },
+        "rating": {
+            "rate": 4.7,
+            "count": 24
+        },
+        "reviews": [
+            {
+                "user": "DressBootsFan",
+                "comment": "Classy and comfortable boots!",
+                "date": "2023-11-27"
+            },
+            {
+                "user": "FormalAfficionado",
+                "comment": "Great for formal events.",
+                "date": "2023-11-25"
+            }
+        ],
+        "colors": [
+            "#000000",
+            "#8B0000",
+            "#FFFFFF"
+        ],
+        "discount": 15
+    }
+]
