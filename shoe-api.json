@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "title": "Elegant Leather Dress Shoes",
+    "stock": 8,
+    "price": 18000,
+    "description": "Sophisticated leather dress shoes designed for style and comfort.",
+    "category": "dress_shoes",
+    "company": "GentleSteps",
+    "featured": true,
+    "images": {
+        "#000000": "https://source.unsplash.com/400x400/?shoes,black",
+        "#FF0000": "https://source.unsplash.com/400x400/?shoes,red",
+        "#FFFFFF": "https://source.unsplash.com/400x400/?shoes,white",
+        "#0000FF": "https://source.unsplash.com/400x400/?shoes,blue"
+    },
+    "rating": {
+        "rate": 4.8,
+        "count": 12
+    },
+    "reviews": [
+        {
+            "user": "FashionGuy",
+            "comment": "Perfect blend of style and comfort!",
+            "date": "2023-11-20"
+        },
+        {
+            "user": "ShoeLover123",
+            "comment": "Great fit and premium quality leather.",
+            "date": "2023-11-18"
+        }
+    ],
+    "colors": [
+        "#000000",
+        "#FF0000",
+        "#FFFFFF",
+        "#0000FF"
+    ]
+}
