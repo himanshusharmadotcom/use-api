@@ -925,43 +925,6 @@
         "discount": 10
     },
     {
-        "id": 25,
-        "title": "Gym Training Shoes",
-        "stock": 30,
-        "price": 6500,
-        "description": "Versatile and durable gym training shoes for varied workouts.",
-        "category": "athletics_shoes",
-        "company": "GymFlex",
-        "featured": true,
-        "images": {
-            "#FF0000": "https://source.unsplash.com/400x400/?gymtrainingshoes,red",
-            "#000000": "https://source.unsplash.com/400x400/?gymtrainingshoes,black",
-            "#FFFFFF": "https://source.unsplash.com/400x400/?gymtrainingshoes,white"
-        },
-        "rating": {
-            "rate": 4.6,
-            "count": 26
-        },
-        "reviews": [
-            {
-                "user": "FitnessFreak",
-                "comment": "Perfect for various workouts!",
-                "date": "2023-11-26"
-            },
-            {
-                "user": "GymAddict",
-                "comment": "Excellent support and flexibility.",
-                "date": "2023-11-24"
-            }
-        ],
-        "colors": [
-            "#FF0000",
-            "#000000",
-            "#FFFFFF"
-        ],
-        "discount": 10
-    },
-    {
         "id": 26,
         "title": "Classic Oxford Shoes",
         "stock": 18,
